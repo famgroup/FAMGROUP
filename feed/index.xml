@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 31 Aug 2023 06:02:34 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 31 Aug 2023 07:41:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,9 +20,35 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
+		<title>PRIMARY LISTING AREA SIDOARJO</title>
+		<link>/primary-listing-area-sidoarjo/</link>
+					<comments>/primary-listing-area-sidoarjo/#respond</comments>
+		
+		<dc:creator><![CDATA[famgroup]]></dc:creator>
+		<pubDate>Thu, 31 Aug 2023 07:40:17 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=522</guid>
+
+					<description><![CDATA[LISTING RUMAH RUKO GUDANG AREA SIDOARJO]]></description>
+										<content:encoded><![CDATA[
+<p>LISTING RUMAH RUKO GUDANG AREA SIDOARJO</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button" id="https://api.whatsapp.com/send/?phone=6282219921122"><a class="wp-block-button__link wp-element-button" href="https://api.whatsapp.com/send/?phone=6282219921122" rel="">WHATSAPP</a></div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/primary-listing-area-sidoarjo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Hello world!</title>
-		<link>/2023/08/31/hello-world/</link>
-					<comments>/2023/08/31/hello-world/#comments</comments>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[famgroup]]></dc:creator>
 		<pubDate>Thu, 31 Aug 2023 06:02:34 +0000</pubDate>
@@ -34,7 +60,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/08/31/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
