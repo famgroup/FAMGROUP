@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Miami Beach &#8211; FAM Group</title>
+	<atom:link href="/es_neighborhood/miami-beach/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 04 Sep 2023 12:28:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>Multifamily Residential</title>
+		<link>/property/multifamily-residential/</link>
+		
+		<dc:creator><![CDATA[famgroup]]></dc:creator>
+		<pubDate>Mon, 04 Sep 2023 12:28:13 +0000</pubDate>
+				<guid isPermaLink="false">/property/multifamily-residential/</guid>
+
+					<description><![CDATA[Apartment with amazing ocean view. This is a demo single property page of Estatik 4.x plugin. Valet, shops, business center, spa, fitness center, sauna jacuzzi, 3 state of the art swimming pools, walk to restaurants, bank, American airlines arena bayside, pharmacies, Whole Foods market. Close to the airport, Miami Adrienne Arsht Center, Perez art…]]></description>
+										<content:encoded><![CDATA[<p>Apartment with amazing ocean view.</p>
+<p>This is a demo single property page of Estatik 4.x plugin.<br />
+Valet, shops, business center, spa, fitness center, sauna jacuzzi, 3 state of the art swimming pools, walk to restaurants, bank, American airlines arena bayside, pharmacies, Whole Foods market. Close to the airport, Miami Adrienne Arsht Center, Perez art…</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Luxurious Apartment at Ocean Drive</title>
+		<link>/property/luxurious-apartment-at-ocean-drive/</link>
+		
+		<dc:creator><![CDATA[famgroup]]></dc:creator>
+		<pubDate>Mon, 04 Sep 2023 12:27:49 +0000</pubDate>
+				<guid isPermaLink="false">/property/luxurious-apartment-at-ocean-drive/</guid>
+
+					<description><![CDATA[Apartment for sale. This is a demo single property page of Estatik 4.x plugin built for WordPress websites. You can find all the details about the plugin and its version on our website www.estatik.net. The best luxurious apartment for buy in Miami Beach and on Ocean Drive! Do not miss this deal. Please call us &#8230;<p class="read-more"> <a class="" href="/property/luxurious-apartment-at-ocean-drive/"> <span class="screen-reader-text">Luxurious Apartment at Ocean Drive</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Apartment for sale.<br />
+This is a demo single property page of Estatik 4.x plugin built for WordPress websites. You can find all the details about the plugin and its version on our website www.estatik.net.<br />
+The best luxurious apartment for buy in Miami Beach and on Ocean Drive! Do not miss this deal. Please call us to get more details and book an appointment with your agent.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
