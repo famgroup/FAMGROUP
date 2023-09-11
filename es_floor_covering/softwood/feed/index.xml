@@ -8,24 +8,24 @@
 	>
 
 <channel>
-	<title>Softwood &#8211; FAM Group</title>
+	<title>Softwood - FAM Group</title>
 	<atom:link href="/es_floor_covering/softwood/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2023 12:28:54 +0000</lastBuildDate>
-	<language>en-US</language>
+	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.3</generator>
 	<item>
 		<title>Spectacular house</title>
 		<link>/property/spectacular-house/</link>
 		
 		<dc:creator><![CDATA[famgroup]]></dc:creator>
 		<pubDate>Mon, 04 Sep 2023 12:28:54 +0000</pubDate>
-				<guid isPermaLink="false">/property/spectacular-house/</guid>
+				<guid isPermaLink="false">http://fam-group.test/property/spectacular-house/</guid>
 
 					<description><![CDATA[House for sale. This is a demo single property page of Estatik 4.x plugin.]]></description>
 										<content:encoded><![CDATA[<p>House for sale.<br />
