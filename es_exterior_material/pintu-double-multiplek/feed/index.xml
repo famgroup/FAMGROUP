@@ -12,7 +12,7 @@
 	<atom:link href="/es_exterior_material/pintu-double-multiplek/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Sep 2023 13:27:58 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Sep 2023 15:34:11 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,50 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3</generator>
 	<item>
+		<title>Velvet Legundi</title>
+		<link>/property/perumahan-velvet-legundi/</link>
+		
+		<dc:creator><![CDATA[famgroup]]></dc:creator>
+		<pubDate>Sat, 16 Sep 2023 13:49:24 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=properties#038;p=1568</guid>
+
+					<description><![CDATA[/]]></description>
+										<content:encoded><![CDATA[
+<p>/</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ALANA Cemandi</title>
+		<link>/property/alana-cemandi/</link>
+		
+		<dc:creator><![CDATA[famgroup]]></dc:creator>
+		<pubDate>Fri, 15 Sep 2023 10:55:51 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=properties#038;p=1519</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ALANA Regency - Tambak Oso</title>
+		<link>/property/alana-regency-tambak-oso/</link>
+		
+		<dc:creator><![CDATA[famgroup]]></dc:creator>
+		<pubDate>Fri, 15 Sep 2023 10:28:41 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=properties#038;p=1516</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Breeze View Tahap 3 (Surya Breeze)</title>
 		<link>/property/breeze-view-tahap-3-surya-breeze/</link>
 		
