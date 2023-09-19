@@ -8,12 +8,12 @@
 	>
 
 <channel>
-	<title>Dishwasher - FAM Group</title>
+	<title>Dishwasher - FAM Group Indonesia</title>
 	<atom:link href="/es_amenity/dishwasher/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 13 Sep 2023 08:33:31 +0000</lastBuildDate>
-	<language>en-GB</language>
+	<language>id</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -25,7 +25,7 @@
 		
 		<dc:creator><![CDATA[famgroup]]></dc:creator>
 		<pubDate>Wed, 13 Sep 2023 08:07:54 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=properties#038;p=1258</guid>
+				<guid isPermaLink="false">https://oxygen-q8p5q8hgcy8tl.oxygen-demo.qsandbox.org/?post_type=properties&#038;p=1258</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -39,7 +39,7 @@
 		
 		<dc:creator><![CDATA[famgroup]]></dc:creator>
 		<pubDate>Wed, 13 Sep 2023 07:56:53 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=properties#038;p=1225</guid>
+				<guid isPermaLink="false">https://oxygen-q8p5q8hgcy8tl.oxygen-demo.qsandbox.org/?post_type=properties&#038;p=1225</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

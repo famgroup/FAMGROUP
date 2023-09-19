@@ -8,24 +8,38 @@
 	>
 
 <channel>
-	<title>Bata Merah - FAM Group</title>
+	<title>Bata Merah - FAM Group Indonesia</title>
 	<atom:link href="/es_exterior_material/bata-merah/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Sep 2023 13:27:58 +0000</lastBuildDate>
-	<language>en-GB</language>
+	<lastBuildDate>Tue, 19 Sep 2023 05:34:43 +0000</lastBuildDate>
+	<language>id</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3</generator>
 	<item>
+		<title>Rumah Siap Huni Kletek, Sidoarjo</title>
+		<link>/property/rumah-siap-huni-kletek-sidoarjo/</link>
+		
+		<dc:creator><![CDATA[famgroup]]></dc:creator>
+		<pubDate>Tue, 19 Sep 2023 05:23:30 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=properties#038;p=1636</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Breeze View Tahap 3 (Surya Breeze)</title>
 		<link>/property/breeze-view-tahap-3-surya-breeze/</link>
 		
 		<dc:creator><![CDATA[famgroup]]></dc:creator>
 		<pubDate>Thu, 14 Sep 2023 13:27:57 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=properties#038;p=1286</guid>
+				<guid isPermaLink="false">https://oxygen-q8p5q8hgcy8tl.oxygen-demo.qsandbox.org/?post_type=properties&#038;p=1286</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -39,7 +53,7 @@
 		
 		<dc:creator><![CDATA[famgroup]]></dc:creator>
 		<pubDate>Wed, 13 Sep 2023 07:35:11 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=properties#038;p=1208</guid>
+				<guid isPermaLink="false">https://oxygen-q8p5q8hgcy8tl.oxygen-demo.qsandbox.org/?post_type=properties&#038;p=1208</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -53,7 +67,7 @@
 		
 		<dc:creator><![CDATA[famgroup]]></dc:creator>
 		<pubDate>Tue, 12 Sep 2023 11:18:43 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=properties#038;p=1174</guid>
+				<guid isPermaLink="false">https://oxygen-q8p5q8hgcy8tl.oxygen-demo.qsandbox.org/?post_type=properties&#038;p=1174</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

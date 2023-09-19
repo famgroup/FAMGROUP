@@ -8,12 +8,12 @@
 	>
 
 <channel>
-	<title>Microwave - FAM Group</title>
+	<title>Microwave - FAM Group Indonesia</title>
 	<atom:link href="/es_amenity/microwave/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Mon, 04 Sep 2023 12:29:22 +0000</lastBuildDate>
-	<language>en-GB</language>
+	<language>id</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

@@ -8,12 +8,12 @@
 	>
 
 <channel>
-	<title>famgroup - FAM Group</title>
+	<title>famgroup - FAM Group Indonesia</title>
 	<atom:link href="/author/famgroup/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sat, 16 Sep 2023 15:34:11 +0000</lastBuildDate>
-	<language>en-GB</language>
+	<lastBuildDate>Tue, 19 Sep 2023 11:16:36 +0000</lastBuildDate>
+	<language>id</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
