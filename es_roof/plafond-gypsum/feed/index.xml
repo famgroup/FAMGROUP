@@ -12,14 +12,36 @@
 	<atom:link href="/es_roof/plafond-gypsum/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 19 Sep 2023 08:05:16 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 20 Sep 2023 16:19:56 +0000</lastBuildDate>
 	<language>id</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/09/fav_icon_famgroup_indonesia-150x150.png</url>
+	<title>Plafond Gypsum - FAM Group Indonesia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
+		<title>Central Park Juanda - cluster The South</title>
+		<link>/property/central-park-juanda-cluster-the-south/</link>
+		
+		<dc:creator><![CDATA[famgroup]]></dc:creator>
+		<pubDate>Wed, 20 Sep 2023 14:57:57 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=properties#038;p=1788</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Rumah Siap Huni Kletek, Sidoarjo</title>
 		<link>/property/rumah-siap-huni-kletek-sidoarjo/</link>
 		

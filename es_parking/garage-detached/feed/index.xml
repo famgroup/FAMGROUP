@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Garasi Pribadi - FAM Group Indonesia</title>
+	<title>Garasi Pribadi (Rumah) - FAM Group Indonesia</title>
 	<atom:link href="/es_parking/garage-detached/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/09/fav_icon_famgroup_indonesia-150x150.png</url>
+	<title>Garasi Pribadi (Rumah) - FAM Group Indonesia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Office in business center</title>
 		<link>/property/office-in-business-center/</link>

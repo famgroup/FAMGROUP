@@ -12,14 +12,36 @@
 	<atom:link href="/property-type/gudang/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 15 Sep 2023 10:56:57 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 24 Sep 2023 12:16:45 +0000</lastBuildDate>
 	<language>id</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/09/fav_icon_famgroup_indonesia-150x150.png</url>
+	<title>Gudang - FAM Group Indonesia</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
+		<title>Gedangan Industrial Park (GIP) Sidoarjo</title>
+		<link>/property/gedangan-industrial-park-gip-sidoarjo/</link>
+		
+		<dc:creator><![CDATA[famgroup]]></dc:creator>
+		<pubDate>Sun, 24 Sep 2023 11:38:02 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=properties#038;p=1848</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Gudang SUNBIZ - Kenwood</title>
 		<link>/property/gudang-sunbiz-kenwood/</link>
 		
