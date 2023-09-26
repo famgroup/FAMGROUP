@@ -12,7 +12,7 @@
 	<atom:link href="/property-type/rumah-secondary/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 19 Sep 2023 05:34:43 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 24 Sep 2023 16:09:37 +0000</lastBuildDate>
 	<language>id</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,12 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Rumah Ready wilayah Trosobo - Sidoarjo</title>
+		<link>/property/rumah-ready-wilayah-trosobo-sidoarjo/</link>
+		
+		<dc:creator><![CDATA[famgroup]]></dc:creator>
+		<pubDate>Sun, 24 Sep 2023 15:38:30 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=properties#038;p=1894</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Rumah Siap Huni Kletek, Sidoarjo</title>
 		<link>/property/rumah-siap-huni-kletek-sidoarjo/</link>
 		
 		<dc:creator><![CDATA[famgroup]]></dc:creator>
 		<pubDate>Tue, 19 Sep 2023 05:23:30 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=properties#038;p=1636</guid>
+				<guid isPermaLink="false">https://oxygen-qxr5v69yg3bvl.oxygen-demo.qsandbox.org/?post_type=properties&#038;p=1636</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
