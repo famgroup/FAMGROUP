@@ -12,7 +12,7 @@
 	<atom:link href="/es_feature/heating/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Sep 2023 14:18:56 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 26 Sep 2023 12:10:05 +0000</lastBuildDate>
 	<language>id</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -106,23 +106,6 @@
 
 <li>30 menit dari Bandara Internasional Juanda</li>
 </ul>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>The cosy condo next to the airport and center</title>
-		<link>/property/the-cosy-condo-next-to-the-airport-and-center/</link>
-		
-		<dc:creator><![CDATA[famgroup]]></dc:creator>
-		<pubDate>Mon, 04 Sep 2023 12:29:22 +0000</pubDate>
-				<guid isPermaLink="false">http://fam-group.test/property/the-cosy-condo-next-to-the-airport-and-center/</guid>
-
-					<description><![CDATA[Condo for sale. This is a demo single property page of Estatik 4.x plugin. Valet, shops, business center, spa, fitness center, sauna jacuzzi, 3 state of the art swimming pools, walk to restaurants, bank, American airlines arena bayside, pharmacies, Whole Foods market. Close to the airport, Miami Adrienne Arsht Center, Perez art...]]></description>
-										<content:encoded><![CDATA[<p>Condo for sale.<br />
-This is a demo single property page of Estatik 4.x plugin.<br />
-Valet, shops, business center, spa, fitness center, sauna jacuzzi, 3 state of the art swimming pools, walk to restaurants, bank, American airlines arena bayside, pharmacies, Whole Foods market. Close to the airport, Miami Adrienne Arsht Center, Perez art...</p>
 ]]></content:encoded>
 					
 		
