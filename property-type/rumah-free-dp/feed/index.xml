@@ -12,7 +12,7 @@
 	<atom:link href="/property-type/rumah-free-dp/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 26 Sep 2023 12:08:41 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 28 Sep 2023 05:31:37 +0000</lastBuildDate>
 	<language>id</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Kahuripan Nirwana - Sidoarjo</title>
+		<link>/property/kahuripan-nirwana-sidoarjo/</link>
+		
+		<dc:creator><![CDATA[famgroup]]></dc:creator>
+		<pubDate>Tue, 26 Sep 2023 14:08:32 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=properties#038;p=1939</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Velvet Legundi</title>
 		<link>/property/perumahan-velvet-legundi/</link>
 		
