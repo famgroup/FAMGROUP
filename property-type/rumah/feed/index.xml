@@ -12,7 +12,7 @@
 	<atom:link href="/property-type/rumah/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 28 Sep 2023 10:41:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 01 Oct 2023 10:31:44 +0000</lastBuildDate>
 	<language>id</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Java Residence - Krian</title>
+		<link>/property/java-residence-krian/</link>
+		
+		<dc:creator><![CDATA[famgroup]]></dc:creator>
+		<pubDate>Sat, 30 Sep 2023 17:13:28 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=properties#038;p=2011</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Kahuripan Nirwana - Sidoarjo</title>
 		<link>/property/kahuripan-nirwana-sidoarjo/</link>
 		
@@ -322,20 +336,6 @@
 		<dc:creator><![CDATA[famgroup]]></dc:creator>
 		<pubDate>Wed, 13 Sep 2023 07:35:11 +0000</pubDate>
 				<guid isPermaLink="false">https://oxygen-q8p5q8hgcy8tl.oxygen-demo.qsandbox.org/?post_type=properties&#038;p=1208</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Green Menganti Regency (GMR)</title>
-		<link>/property/green-menganti-regency-gmr/</link>
-		
-		<dc:creator><![CDATA[famgroup]]></dc:creator>
-		<pubDate>Tue, 12 Sep 2023 11:18:43 +0000</pubDate>
-				<guid isPermaLink="false">https://oxygen-q8p5q8hgcy8tl.oxygen-demo.qsandbox.org/?post_type=properties&#038;p=1174</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

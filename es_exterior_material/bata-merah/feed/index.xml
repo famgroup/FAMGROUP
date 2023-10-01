@@ -12,7 +12,7 @@
 	<atom:link href="/es_exterior_material/bata-merah/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 28 Sep 2023 10:41:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 01 Oct 2023 10:31:44 +0000</lastBuildDate>
 	<language>id</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Java Residence - Krian</title>
+		<link>/property/java-residence-krian/</link>
+		
+		<dc:creator><![CDATA[famgroup]]></dc:creator>
+		<pubDate>Sat, 30 Sep 2023 17:13:28 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=properties#038;p=2011</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Rumah Ready wilayah Trosobo - Sidoarjo</title>
 		<link>/property/rumah-ready-wilayah-trosobo-sidoarjo/</link>
 		
