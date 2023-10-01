@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Tempat Pembuangan - FAM Group Indonesia</title>
+	<title>Tempat Pembuangan</title>
 	<atom:link href="/es_amenity/garbage-disposal/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sun, 01 Oct 2023 10:31:44 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 01 Oct 2023 13:37:00 +0000</lastBuildDate>
 	<language>id</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,26 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2023/09/fav_icon_famgroup_indonesia-150x150.png</url>
-	<title>Tempat Pembuangan - FAM Group Indonesia</title>
+	<title>Tempat Pembuangan</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Java Residence - Krian</title>
-		<link>/property/java-residence-krian/</link>
-		
-		<dc:creator><![CDATA[famgroup]]></dc:creator>
-		<pubDate>Sat, 30 Sep 2023 17:13:28 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=properties#038;p=2011</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Central Park Juanda - cluster The South</title>
 		<link>/property/central-park-juanda-cluster-the-south/</link>
 		
@@ -139,7 +125,9 @@
 
 
 
-<ul></ul>
+<ul>
+<li></li>
+</ul>
 ]]></content:encoded>
 					
 		
@@ -502,6 +490,20 @@
 		<dc:creator><![CDATA[famgroup]]></dc:creator>
 		<pubDate>Wed, 13 Sep 2023 07:56:53 +0000</pubDate>
 				<guid isPermaLink="false">https://oxygen-q8p5q8hgcy8tl.oxygen-demo.qsandbox.org/?post_type=properties&#038;p=1225</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Taman Sukodono Village (TSV)</title>
+		<link>/property/taman-sukodono-village-tsv/</link>
+		
+		<dc:creator><![CDATA[famgroup]]></dc:creator>
+		<pubDate>Wed, 13 Sep 2023 07:35:11 +0000</pubDate>
+				<guid isPermaLink="false">https://oxygen-q8p5q8hgcy8tl.oxygen-demo.qsandbox.org/?post_type=properties&#038;p=1208</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>

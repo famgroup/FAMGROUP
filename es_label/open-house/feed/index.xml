@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>OPEN House - FAM Group Indonesia</title>
+	<title>OPEN House</title>
 	<atom:link href="/es_label/open-house/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2023/09/fav_icon_famgroup_indonesia-150x150.png</url>
-	<title>OPEN House - FAM Group Indonesia</title>
+	<title>OPEN House</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>

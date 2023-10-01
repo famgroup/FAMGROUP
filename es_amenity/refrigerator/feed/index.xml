@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Kulkas - FAM Group Indonesia</title>
+	<title>Kulkas</title>
 	<atom:link href="/es_amenity/refrigerator/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2023/09/fav_icon_famgroup_indonesia-150x150.png</url>
-	<title>Kulkas - FAM Group Indonesia</title>
+	<title>Kulkas</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>

@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Teras - FAM Group Indonesia</title>
+	<title>Teras</title>
 	<atom:link href="/es_feature/terrace/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 28 Sep 2023 10:41:22 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 01 Oct 2023 14:22:59 +0000</lastBuildDate>
 	<language>id</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,18 +22,72 @@
 
 <image>
 	<url>/wp-content/uploads/2023/09/fav_icon_famgroup_indonesia-150x150.png</url>
-	<title>Teras - FAM Group Indonesia</title>
+	<title>Teras</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
+		<title>Rumah dijual wilayah Kahuripan Sidoarjo</title>
+		<link>/property/rumah-dijual-wilayah-kahuripan-sidoarjo/</link>
+		
+		<dc:creator><![CDATA[famgroup]]></dc:creator>
+		<pubDate>Sun, 01 Oct 2023 14:13:05 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=properties#038;p=2039</guid>
+
+					<description><![CDATA[Rumah Dijual kawasan Kahuripan Sidoarjo Rumah Siap Huni dikawasan Kahuripan Sidoarjo. Bagi yang berminat silahkan hubungi via whatsapp di Profile kami. Trimakasih]]></description>
+										<content:encoded><![CDATA[
+<h4 class="wp-block-heading has-text-align-center"><strong>Rumah Dijual kawasan Kahuripan Sidoarjo</strong></h4>
+
+
+
+<p>Rumah Siap Huni dikawasan Kahuripan Sidoarjo. </p>
+
+
+
+<ul>
+<li>Luas Tanah 213 m<sup>2</sup></li>
+
+
+
+<li>Luas Bangunan 100 m<sup>2</sup></li>
+
+
+
+<li>Kamar Tidur 3 unit</li>
+
+
+
+<li>Kamar Mandi 1 unit</li>
+
+
+
+<li>Dapur tersedia</li>
+
+
+
+<li>terdapat Kolam ikan ukuran 3x2 m<sup>2</sup></li>
+</ul>
+
+
+
+<div class="wp-block-uagb-separator uagb-block-bf15e07b"><div class="wp-block-uagb-separator__inner" style="--my-background-image:"></div></div>
+
+
+
+<p>Bagi yang berminat silahkan hubungi via whatsapp di Profile kami. Trimakasih</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Rumah Ready wilayah Trosobo - Sidoarjo</title>
 		<link>/property/rumah-ready-wilayah-trosobo-sidoarjo/</link>
 		
 		<dc:creator><![CDATA[famgroup]]></dc:creator>
 		<pubDate>Sun, 24 Sep 2023 15:38:30 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=properties#038;p=1894</guid>
+				<guid isPermaLink="false">https://oxygen-qqx4mqmhkmfvl.oxygen-demo.qsandbox.org/?post_type=properties&#038;p=1894</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -139,7 +193,9 @@
 
 
 
-<ul></ul>
+<ul>
+<li></li>
+</ul>
 ]]></content:encoded>
 					
 		
@@ -418,20 +474,6 @@
 		<dc:creator><![CDATA[famgroup]]></dc:creator>
 		<pubDate>Wed, 13 Sep 2023 07:56:53 +0000</pubDate>
 				<guid isPermaLink="false">https://oxygen-q8p5q8hgcy8tl.oxygen-demo.qsandbox.org/?post_type=properties&#038;p=1225</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Taman Sukodono Village (TSV)</title>
-		<link>/property/taman-sukodono-village-tsv/</link>
-		
-		<dc:creator><![CDATA[famgroup]]></dc:creator>
-		<pubDate>Wed, 13 Sep 2023 07:35:11 +0000</pubDate>
-				<guid isPermaLink="false">https://oxygen-q8p5q8hgcy8tl.oxygen-demo.qsandbox.org/?post_type=properties&#038;p=1208</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
