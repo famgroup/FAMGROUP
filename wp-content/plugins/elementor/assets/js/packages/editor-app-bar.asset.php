@@ -1,4 +1,4 @@
 <div class="alert alert-danger">
-<strong>QSandbox Fatal error/exception: </strong> <br>File: /wp-content/plugins/elementor/assets/js/packages/editor-app-bar.asset.php<br>Line: 10<br>Request Id: 1fae1cef6d8c94ef277e62d947c0bb40f35faaee<br>Plugin: elementor<br>
+<strong>QSandbox Fatal error/exception: </strong> <br>File: /wp-content/plugins/elementor/assets/js/packages/editor-app-bar.asset.php<br>Line: 10<br>Request Id: 50c65b973ce7ba0e2a2233a197dd5be53139dbbd<br>Plugin: elementor<br>
 </div>
-<br>If you think this is an error with the platform <a href="https://qsandbox.com/app/?page=contact&subject=Site+Error%3A+oxygen-q7cypzn4db28.oxygen-demo.qsandbox.org&message=Hi%2C%0A%0A%0ARequested+URL%3A+%2Fwp-content%2Fplugins%2Felementor%2Fassets%2Fjs%2Fpackages%2Feditor-app-bar.asset.php%3Fsimply_static_page%3D33647%0AID%3A+1fae1cef6d8c94ef277e62d947c0bb40f35faaee" target="_blank">Contact us </a> so we can look into it.
+<br>If you think this is an error with the platform <a href="https://qsandbox.com/app/?page=contact&subject=Site+Error%3A+oxygen-qxwgfawhtz6vl.oxygen-demo.qsandbox.org&message=Hi%2C%0A%0A%0ARequested+URL%3A+%2Fwp-content%2Fplugins%2Felementor%2Fassets%2Fjs%2Fpackages%2Feditor-app-bar.asset.php%3Fsimply_static_page%3D191%0AID%3A+50c65b973ce7ba0e2a2233a197dd5be53139dbbd" target="_blank">Contact us </a> so we can look into it.
